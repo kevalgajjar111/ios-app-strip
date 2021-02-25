@@ -20,6 +20,7 @@ class APIClient {
     static let baseURL = URL(string: "https://stalwart-keval.herokuapp.com/")
     
     func capturePaymentIntent(_ paymentIntentId: String, completion: @escaping ErrorCompletionBlock) {
+        
         let config = URLSessionConfiguration.default
         let session = URLSession(configuration: config)
         guard let url = URL(string: "/capture_payment_intent", relativeTo: APIClient.baseURL) else {
