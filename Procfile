@@ -1,1 +1,1 @@
-worker: python stalwart-keval.py
+web: python stalwart-keval.py
