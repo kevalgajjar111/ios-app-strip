@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-rocketrides-pilot/Pods-rocketrides-pilot-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${PODS_ROOT}/StripeTerminal/Carthage/Build/iOS/StripeTerminal.framework
+${PODS_ROOT}/StripeTerminal/Carthage/Build/iOS/StripeTerminal.framework.dSYM

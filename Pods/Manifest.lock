@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (5.4.1)
+  - StripeTerminal (1.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - StripeTerminal (= 1.0.2)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - StripeTerminal
+  trunk:
+    - Alamofire
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  StripeTerminal: abeca8c3f57be96f6ba35ac79513bb91cc3db96e
+
+PODFILE CHECKSUM: 177cae9fc967aa854c18503dd20ae185fb9eb54d
+
+COCOAPODS: 1.8.3

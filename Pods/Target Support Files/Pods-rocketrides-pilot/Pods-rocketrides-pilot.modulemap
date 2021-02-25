@@ -1,0 +1,6 @@
+framework module Pods_rocketrides_pilot {
+  umbrella header "Pods-rocketrides-pilot-umbrella.h"
+
+  export *
+  module * { export * }
+}
