@@ -1,3 +1,3 @@
 web: python stalwart-keval.py
 web: node index.js
-web: gunicorn app:app --log-file=-
+web: gunicorn stalwart-keval:app --log-file=-
