@@ -1,1 +1,1 @@
-web: node index.js
+web: gunicorn core.wsgi --log-file=-
